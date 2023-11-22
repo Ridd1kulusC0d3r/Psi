@@ -1,2 +1,2 @@
 # Psi
-Psi
+Psi.
